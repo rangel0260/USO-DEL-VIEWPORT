@@ -1,0 +1,15 @@
+{
+    "name": "USO_DEL_VIEWPORT",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Rangel",
+    "contributors": [
+    ],
+    "dependencies": {}
+}
